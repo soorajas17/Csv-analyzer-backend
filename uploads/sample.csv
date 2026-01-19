@@ -1,0 +1,11 @@
+name,age,salary,department
+Akhil,25,30000,IT
+Sneha,28,35000,HR
+Rahul,32,45000,Finance
+Anu,26,32000,IT
+Vishnu,35,60000,Marketing
+Meera,,40000,HR
+Arjun,29,,Finance
+Neha,31,50000,IT
+Kiran,27,33000,Marketing
+Lakshmi,34,55000,HR
